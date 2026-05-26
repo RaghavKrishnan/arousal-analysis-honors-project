@@ -1,0 +1,5 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+source_zips/ 
+output_sorted_by_movie/ 

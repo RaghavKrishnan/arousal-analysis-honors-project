@@ -1,0 +1,15 @@
+Movie,Duration_Sec,Pearson_r,P_Value,Significant
+AfterTheRain,496,0.0298,0.507808,No
+BetweenViewings,808,-0.1353,0.000115,Yes
+BigBuckBunny,490,-0.0597,0.186933,No
+Chatter,405,0.6974,0.0,Yes
+FirstBite,599,-0.0811,0.04718,Yes
+LessonLearned,667,0.5395,0.0,Yes
+Payload,905,0.1272,0.000124,Yes
+Sintel,722,0.7418,0.0,Yes
+Spaceman,805,-0.1061,0.002577,Yes
+Superhero,971,0.2904,0.0,Yes
+TearsOfSteel,588,0.7629,0.0,Yes
+TheSecretNumber,524,-0.0459,0.294621,No
+ToClaireFromSonny,402,0.3651,0.0,Yes
+YouAgain,798,-0.2259,0.0,Yes
