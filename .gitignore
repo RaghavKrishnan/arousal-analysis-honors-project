@@ -2,4 +2,9 @@ venv/
 __pycache__/
 *.pyc
 data/output_sorted_by_movie/
+01_Aim_1_fMRI_to_ARS/04_data/
 data/source_zips/
+# Ignore all raw neuroimaging data and numpy arrays
+*.nii
+*.nii.gz
+*.npy
