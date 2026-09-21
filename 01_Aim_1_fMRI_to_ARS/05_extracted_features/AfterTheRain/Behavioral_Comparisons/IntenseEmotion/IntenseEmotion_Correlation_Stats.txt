@@ -1,0 +1,5 @@
+Correlation Statistics: SVR Predicted Arousal vs IntenseEmotion
+--------------------------------------------------
+Cohort-Level Pearson r : 0.8080
+Cohort-Level p-value   : 4.2700e-89
+Mean Subject-Level r   : 0.3697

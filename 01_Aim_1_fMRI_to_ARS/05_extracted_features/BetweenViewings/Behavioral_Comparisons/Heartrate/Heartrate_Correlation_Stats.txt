@@ -1,0 +1,5 @@
+Correlation Statistics: SVR Predicted Arousal vs Heartrate
+--------------------------------------------------
+Cohort-Level Pearson r : 0.0008
+Cohort-Level p-value   : 9.8511e-01
+Mean Subject-Level r   : 0.0070

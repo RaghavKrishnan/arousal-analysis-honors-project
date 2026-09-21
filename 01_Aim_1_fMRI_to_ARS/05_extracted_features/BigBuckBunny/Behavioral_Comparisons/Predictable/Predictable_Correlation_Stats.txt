@@ -1,0 +1,5 @@
+Correlation Statistics: SVR Predicted Arousal vs Predictable
+--------------------------------------------------
+Cohort-Level Pearson r : -0.2089
+Cohort-Level p-value   : 4.3606e-05
+Mean Subject-Level r   : -0.1123
